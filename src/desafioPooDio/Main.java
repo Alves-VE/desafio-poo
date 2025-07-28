@@ -11,7 +11,7 @@ public class Main {
 		curso1.setTitulo("curso Java");
 		curso1.setDescricao("descrição curso Java");
 		curso1.setCargaHoraria(8);
-		// comentario
+		// comentario 2
 		Curso curso2 = new Curso();
 		curso2.setTitulo("curso Js");
 		curso2.setDescricao("descrição curso Js");
