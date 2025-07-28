@@ -11,12 +11,13 @@ public class Main {
 		curso1.setTitulo("curso Java");
 		curso1.setDescricao("descrição curso Java");
 		curso1.setCargaHoraria(8);
-		// comentario 2
+		
 		Curso curso2 = new Curso();
 		curso2.setTitulo("curso Js");
 		curso2.setDescricao("descrição curso Js");
 		curso2.setCargaHoraria(4);
-		//teste 1
+		
+		
 		Mentoria mentoria = new Mentoria();
 		mentoria.setTitulo("Mentoria Java");
 		mentoria.setDescricao("Descrição mentoria Java");
@@ -25,7 +26,6 @@ public class Main {
 		System.out.println(curso1);
 		System.out.println(curso2);
 		System.out.println(mentoria);
-	
 	}
 
 }
